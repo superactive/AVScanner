@@ -1,0 +1,7 @@
+virus
+test
+worm
+asm
+ddos
+attack
+microsoft
