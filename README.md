@@ -1,2 +1,2 @@
 # cppProjects
-Here are stored my programs on C++ and Qt apps
+Here are stored my programs are written on C family languages
